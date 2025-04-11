@@ -58,3 +58,6 @@ Make sure to update these credentials in the code if your MySQL setup differs.
 ## Contributing
 
 Feel free to submit issues and enhancement requests. 
+
+### note
+# chnage your password, user, and database name

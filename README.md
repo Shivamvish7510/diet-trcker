@@ -49,9 +49,9 @@ A Python-based desktop application for tracking diet and nutrition, built with T
 
 The application uses MySQL with the following default configuration:
 - Host: localhost
-- Database: DietTracker3
+- Database: -----------
 - User: root
-- Password: Shivam@123
+- Password: -----------
 
 Make sure to update these credentials in the code if your MySQL setup differs.
 
